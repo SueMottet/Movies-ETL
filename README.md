@@ -28,11 +28,14 @@ A ...
 
 ## Analysis Results for Movie ETL
 1. Result 1
+
+A summary visualization of these result is shown here:
 ![movie query image](/Resources/movie_query.png)
 
 2. Result 2
 
 A summary visualization of these result is shown here:
+
 
 ![rating image](/Resources/rating_query.png)
 
