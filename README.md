@@ -2,7 +2,7 @@
 
 ## Movie ETL Overview
 
-This project is to extract, clean and load three movie files into PostgresSQL Database using Python functions and regular expressions.
+This project is to extract, clean and load three movie files into a PostgresSQL Database using Python functions and regular expressions.
 * inspecting the data
 * read and perform cleaning on the data using regular expressions
 * merge data
