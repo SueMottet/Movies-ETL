@@ -1,4 +1,4 @@
-# Movies-ETL
+# Movies Extract Transform and Load
 
 ## Movie ETL Overview
 
@@ -6,10 +6,10 @@ This project is to extract, clean and load three movie files into PostgresSQL Da
 * inspecting the data
 * read and perform cleaning on the data using regular expressions
 * merge data
-* creating data frames
-* load data 
+* creating DataFrames
+* load data to database
 
-The intended use of this data is clean data for use in a Hackathon. This techincal analysis will be primarily focused on techniques for extracting, cleaning, relating, merging, and loading the data into a database for future reuse.
+The intended use of this work is to clean the mvoie data for use in a Hackathon. This techincal analysis will be primarily focused on techniques for extracting, cleaning, relating, merging, and loading the data into a database for future reuse.
 
 ### Objective 1: Create a function to read three data files
 1. Create an ETL function to read the three files
@@ -52,11 +52,11 @@ The intended use of this data is clean data for use in a Hackathon. This techinc
 - Software: Python 3.6.1, Jupyter Notebook, Pandas, Matplotlib, SQLAlchemy, PostgreSQL
 
 ## Analysis Results for Movie ETL
-1. A summary visualization of these movie results are shown here:
+* A summary visualization of these movie results are shown here:
 
 ![movie query image](/Resources/movie_query.png)
 
-2. A summary visualization of these ratings results are shown here:
+* A summary visualization of these ratings results are shown here:
 
 ![rating image](/Resources/rating_query.png)
 
